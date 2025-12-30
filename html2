@@ -1,21 +1,22 @@
-<html dir="ltr" lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="x-apple-disable-message-reformatting">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="format-detection" content="telephone=no">
-    <title></title>
-    <!--[if (mso 16)]>
-      <style type="text/css">
-         a {text-decoration: none;}
-      </style>
-      <![endif]-->
-    <!--[if gte mso 9]>
-      <style>sup { font-size: 100% !important; }</style>
-      <![endif]-->
-    <!--[if gte mso 9]>
-      <noscript>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office"><head> 
+  <meta charset="UTF-8"> 
+  <meta content="width=device-width, initial-scale=1" name="viewport"> 
+  <meta name="x-apple-disable-message-reformatting"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta content="telephone=no" name="format-detection"> 
+  <title></title> 
+  <!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--> 
+  <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--> 
+  <!--[if !mso]><!-- --> 
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet"> 
+  <!--<![endif]--> 
+  <!--[if gte mso 9]>
+<noscript>
          <xml>
            <o:OfficeDocumentSettings>
            <o:AllowPNG></o:AllowPNG>
@@ -23,183 +24,477 @@
            </o:OfficeDocumentSettings>
          </xml>
       </noscript>
-      <![endif]-->
-    <!--[if mso]><xml>
+<![endif]--> 
+ <!--[if mso]><xml>
     <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
       <w:DontUseAdvancedTypographyReadingMail/>
     </w:WordDocument>
-    </xml><![endif]-->
-  </head>
-  <body class="body">
-    <div dir="ltr" lang="en" class="es-wrapper-color">
-      <!--[if gte mso 9]>
-         <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-            <v:fill type="tile" color="#F6F6F6"></v:fill>
-         </v:background>
-         <![endif]-->
-      <table width="100%" cellspacing="0" cellpadding="0" class="es-wrapper">
-        <tbody>
-          <tr>
-            <td valign="top" class="esd-email-paddings">
-              <table cellspacing="0" cellpadding="0" align="center" class="esd-header-popover es-header">
-                <tbody>
-                  <tr>
-                    <td align="center" class="esd-stripe">
-                      <table align="center" width="600" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" class="es-header-body">
-                        <tbody>
-                          <tr>
-                            <td align="left" class="es-p20t es-p20r es-p20l esd-structure">
-                              <!--[if mso]>
-                                             <table width="560" cellpadding="0"
-                                                cellspacing="0">
-                                                <tr>
-                                                   <td width="180" valign="top">
-                                                      <![endif]-->
-                              <table align="left" cellspacing="0" cellpadding="0" class="es-left">
-                                <tbody>
-                                  <tr>
-                                    <td width="180" valign="top" align="center" class="es-m-p20b esd-container-frame">
-                                      <table cellspacing="0" cellpadding="0" width="100%">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" class="esd-empty-container" style="display:none"></td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                              <!--[if mso]>
-                                                   </td>
-                                                   <td width="20"></td>
-                                                   <td width="360" valign="top">
-                                                      <![endif]-->
-                              <table align="right" cellspacing="0" cellpadding="0" class="es-right">
-                                <tbody>
-                                  <tr>
-                                    <td width="360" align="left" class="esd-container-frame">
-                                      <table width="100%" cellspacing="0" cellpadding="0">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" class="esd-empty-container" style="display:none"></td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                              <!--[if mso]>
-                                                   </td>
-                                                </tr>
-                                             </table>
-                                             <![endif]-->
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              <table cellspacing="0" cellpadding="0" align="center" class="es-content">
-                <tbody>
-                  <tr>
-                    <td align="center" class="esd-stripe">
-                      <table bgcolor="#FFFFFF" align="center" width="600" cellspacing="0" cellpadding="0" class="es-content-body">
-                        <tbody>
-                          <tr>
-                            <td align="left" class="es-p20t es-p20r es-p20l esd-structure">
-                              <table cellpadding="0" width="100%" cellspacing="0">
-                                <tbody>
-                                  <tr>
-                                    <td width="560" valign="top" align="center" class="esd-container-frame">
-                                      <table cellspacing="0" cellpadding="0" width="100%">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" class="esd-empty-container" style="display:none"></td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              <table cellspacing="0" cellpadding="0" align="center" class="esd-footer-popover es-footer">
-                <tbody>
-                  <tr>
-                    <td align="center" class="esd-stripe">
-                      <table width="600" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center" class="es-footer-body">
-                        <tbody>
-                          <tr>
-                            <td align="left" class="esd-structure es-p20t es-p20b es-p20r es-p20l">
-                              <!--[if mso]>
-                                             <table width="560" cellpadding="0"
-                                                cellspacing="0">
-                                                <tr>
-                                                   <td width="270" valign="top">
-                                                      <![endif]-->
-                              <table align="left" cellspacing="0" cellpadding="0" class="es-left">
-                                <tbody>
-                                  <tr>
-                                    <td width="270" align="left" class="es-m-p20b esd-container-frame">
-                                      <table width="100%" cellspacing="0" cellpadding="0">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" class="esd-empty-container" style="display:none"></td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                              <!--[if mso]>
-                                                   </td>
-                                                   <td width="20"></td>
-                                                   <td width="270" valign="top">
-                                                      <![endif]-->
-                              <table cellspacing="0" cellpadding="0" align="right" class="es-right">
-                                <tbody>
-                                  <tr>
-                                    <td align="left" width="270" class="esd-container-frame">
-                                      <table width="100%" cellspacing="0" cellpadding="0">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" class="esd-empty-container" style="display:none"></td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                              <!--[if mso]>
-                                                   </td>
-                                                </tr>
-                                             </table>
-                                             <![endif]-->
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </body>
+    </xml><![endif]--></head> 
+ <body class="body"> 
+  <div class="es-wrapper-color"> 
+   <!--[if gte mso 9]>
+			<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+				<v:fill type="tile" color="#f6f6f6"></v:fill>
+			</v:background>
+		<![endif]--> 
+   <table width="100%" cellspacing="0" cellpadding="0" class="es-wrapper" esd-img-prev-position="center top"> 
+    <tbody> 
+     <tr> 
+      <td valign="top" class="esd-email-paddings"> 
+        
+       <table align="center" cellspacing="0" cellpadding="0" class="es-content"><tbody><tr><td align="center" class="esd-stripe esd-synchronizable-module" esd-custom-block-id="247209"> 
+           <table width="600" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" class="es-content-body"> 
+            <tbody> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="600" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-image" style="font-size:0"><a target="_blank"><img src="https://tlr.stripocdn.email/content/guids/CABINET_85ae9750d8c97c378022ce136c8b95ba/images/5911509018452577.png" alt="" width="600" class="adapt-img"></a></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p40b es-p20r es-p20l"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="560" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-text es-p5b"><h1>We are so grateful for you</h1></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="center" class="esd-block-spacer es-p10b es-p20r es-p20l" style="font-size:0"> 
+                       <table width="15%" height="100%" cellspacing="0" cellpadding="0" border="0"> 
+                        <tbody> 
+                         <tr> 
+                          <td style="border-bottom:4px solid rgb(204, 173, 83);background:rgba(0, 0, 0, 0) none repeat scroll 0% 0%;height:0px;width:100%;margin:0px"></td> 
+                         </tr> 
+                        </tbody> 
+                       </table></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="center" class="esd-block-text es-p10t es-p25b"><p style="font-size:16px">Wishing you the happiness of good friends, the joy of a happy family, and the wonder of the holiday season. We would like to thank you with our discount coupon. Have a memorable Thanksgiving!<br></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+            </tbody> 
+           </table></td></tr></tbody></table> 
+       <table cellspacing="0" cellpadding="0" align="center" class="es-content"> 
+        <tbody> 
+         <tr> 
+          <td align="center" class="esd-stripe"> 
+           <table width="600" cellspacing="0" cellpadding="0" align="center" class="es-content-body"> 
+            <tbody> 
+             <tr> 
+              <td align="left" class="esd-structure"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                  
+                </tbody> 
+               </table></td> 
+             </tr> 
+            </tbody> 
+           </table></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+        
+       <table cellspacing="0" cellpadding="0" align="center" class="es-content"> 
+        <tbody> 
+          
+         <tr> 
+          <td align="center" class="esd-stripe"> 
+           <table width="600" cellspacing="0" cellpadding="0" bgcolor="#efefef" align="center" class="es-content-body" style="background-color:rgb(239, 239, 239)"> 
+            <tbody> 
+             <tr> 
+              <td esd-general-paddings-checked="false" esd-img-prev-src esd-img-prev-position="left top" align="left" class="esd-structure" style="background-position:left top"> 
+               <!--[if mso]><table width="600" cellpadding="0" cellspacing="0"><tr><td width="290" valign="top"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="left" class="es-left"> 
+                <tbody> 
+                 <tr> 
+                  <td width="290" align="left" class="es-m-p20b esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-image" style="font-size:0"><a target="_blank" href="https://viewstripo.email/"><img src="https://tlr.stripocdn.email/content/guids/CABINET_3ee76a2c6bdd9006030c550e5e228274/images/17061509012941762.png" alt="20% off" title="20% off" height="174" class="adapt-img"></a></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td><td width="20"></td><td width="290" valign="top"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="right" class="es-right"> 
+                <tbody> 
+                 <tr> 
+                  <td width="290" align="left" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p15t es-p10b es-p15r es-p15l"><h3>Discount voucher</h3></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p5t es-p5b es-p15r es-p15l"><p class="es-m-txt-c" style="line-height:150%">Avail this voucher at the next visit to our restaurant. Just tell a code or show this email to the waiter. CODE: HAPPY17</p></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p5t es-p15r es-p15l"><p class="es-m-txt-c" style="line-height:200%;color:rgb(204, 173, 83)"><span style="font-size:16px;line-height:200%"><span style="font-family:lora,georgia,times new roman,serif;line-height:200%"><em style="line-height:150%">Valid From: 23.11.17 - 23.12.17</em></span></span></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td></tr></table><![endif]--></td> 
+             </tr> 
+            </tbody> 
+           </table></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+       <table cellspacing="0" cellpadding="0" align="center" class="es-content"> 
+        <tbody> 
+          
+         <tr> 
+          <td align="center" class="esd-stripe"> 
+           <table width="600" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" class="es-content-body"> 
+            <tbody> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p30t es-p20r es-p20l"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="560" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-text es-p5b"><h2 style="color:rgb(51, 51, 51)">Our cooks share recipes</h2></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="center" class="esd-block-spacer es-p20b es-p20r es-p20l" style="font-size:0"> 
+                       <table width="15%" height="100%" cellspacing="0" cellpadding="0" border="0"> 
+                        <tbody> 
+                         <tr> 
+                          <td style="border-bottom:4px solid rgb(204, 173, 83);background:rgba(0, 0, 0, 0) none repeat scroll 0% 0%;height:0px;width:100%;margin:0px"></td> 
+                         </tr> 
+                        </tbody> 
+                       </table></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+             <tr> 
+              <td esd-img-prev-src="https://tlr.stripocdn.email/content/guids/CABINET_85ae9750d8c97c378022ce136c8b95ba/images/28511509019019851.png" esd-img-prev-position="left top" esd-img-prev-repeat="no-repeat" align="left" class="esd-structure esd-checked es-p10t es-p25b es-p20r es-p20l" style="background-image:url(https://tlr.stripocdn.email/content/guids/CABINET_85ae9750d8c97c378022ce136c8b95ba/images/28511509019019851.png);background-position:left top;background-repeat:no-repeat"> 
+               <!--[if mso]><table width="560" cellpadding="0" cellspacing="0"><tr><td width="270" valign="top"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="left" class="es-left"> 
+                <tbody> 
+                 <tr> 
+                  <td width="270" align="left" class="es-m-p20b esd-container-frame" esd-dynamic-block="{&quot;link&quot;:{&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;a&quot;,&quot;attribute&quot;:&quot;href&quot;,&quot;custom&quot;:false}],&quot;value&quot;:&quot;&quot;},&quot;variables&quot;:[{&quot;$type&quot;:&quot;models.VariableConfig&quot;,&quot;variable&quot;:&quot;b_title&quot;,&quot;name&quot;:&quot;Title&quot;,&quot;blockMappings&quot;:[],&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-text h3&quot;,&quot;attribute&quot;:&quot;&quot;,&quot;custom&quot;:false},{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-image a img&quot;,&quot;attribute&quot;:&quot;title&quot;,&quot;custom&quot;:false},{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-image a img&quot;,&quot;attribute&quot;:&quot;alt&quot;,&quot;custom&quot;:false}]},{&quot;$type&quot;:&quot;models.VariableConfig&quot;,&quot;variable&quot;:&quot;b_description&quot;,&quot;name&quot;:&quot;Description&quot;,&quot;blockMappings&quot;:[],&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-text .product-description&quot;,&quot;attribute&quot;:&quot;&quot;,&quot;custom&quot;:false}]},{&quot;$type&quot;:&quot;models.VariableConfig&quot;,&quot;variable&quot;:&quot;b_image&quot;,&quot;name&quot;:&quot;Image&quot;,&quot;blockMappings&quot;:[],&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-image img&quot;,&quot;attribute&quot;:&quot;src&quot;,&quot;custom&quot;:false}]}]}"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p10b"><h3>Cranberry sauce</h3></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="center" class="esd-block-image" style="font-size:0"><a target="_blank"><img src="https://tlr.stripocdn.email/content/guids/CABINET_3ee76a2c6bdd9006030c550e5e228274/images/23671509014349523.jpg" alt="Cranberry" title="Cranberry" width="270" class="adapt-img"></a></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p10t es-p10b"><p><span class="product-description">In a small saucepan over low heat, combine sugar and water until sugar dissolves. Add cranberries and cook until they burst, 10 minutes. Stir in orange zest and a pinch of salt...</span></p></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text"><p><a href="http://mysite.com" target="_blank">Learn More +</a></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td><td width="20"></td><td width="270" valign="top"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="right" class="es-right"> 
+                <tbody> 
+                 <tr> 
+                  <td width="270" align="left" class="es-m-p20b esd-container-frame" esd-dynamic-block="{&quot;link&quot;:{&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;a&quot;,&quot;attribute&quot;:&quot;href&quot;,&quot;custom&quot;:false}],&quot;value&quot;:&quot;&quot;},&quot;variables&quot;:[{&quot;$type&quot;:&quot;models.VariableConfig&quot;,&quot;variable&quot;:&quot;b_title&quot;,&quot;name&quot;:&quot;Title&quot;,&quot;blockMappings&quot;:[],&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-text h3&quot;,&quot;attribute&quot;:&quot;&quot;,&quot;custom&quot;:false},{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-image a img&quot;,&quot;attribute&quot;:&quot;title&quot;,&quot;custom&quot;:false},{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-image a img&quot;,&quot;attribute&quot;:&quot;alt&quot;,&quot;custom&quot;:false}]},{&quot;$type&quot;:&quot;models.VariableConfig&quot;,&quot;variable&quot;:&quot;b_description&quot;,&quot;name&quot;:&quot;Description&quot;,&quot;blockMappings&quot;:[],&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-text .product-description&quot;,&quot;attribute&quot;:&quot;&quot;,&quot;custom&quot;:false}]},{&quot;$type&quot;:&quot;models.VariableConfig&quot;,&quot;variable&quot;:&quot;b_image&quot;,&quot;name&quot;:&quot;Image&quot;,&quot;blockMappings&quot;:[],&quot;blockMapping&quot;:[{&quot;$type&quot;:&quot;models.SmartBlockMapping&quot;,&quot;selector&quot;:&quot;.esd-block-image img&quot;,&quot;attribute&quot;:&quot;src&quot;,&quot;custom&quot;:false}]}]}"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p10b"><h3>Baked Turkey</h3></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="center" class="esd-block-image" style="font-size:0"><a target="_blank"><img src="https://tlr.stripocdn.email/content/guids/CABINET_3ee76a2c6bdd9006030c550e5e228274/images/91501509014342687.jpg" alt="Baked Turkey" title="Baked Turkey" width="270" height="180" class="adapt-img"></a></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p10t es-p10b"><p><span class="product-description">Preheat oven to 325° F. Remove the giblets from the body cavity along with anything that has been tucked into the neck skin...</span></p></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text"><p><a href="http://mysite.com" target="_blank">Learn More +</a></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td></tr></table><![endif]--></td> 
+             </tr> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p10b es-p10r es-p10l"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="580" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-spacer es-p10b es-p10r es-p10l" style="font-size:0"> 
+                       <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0"> 
+                        <tbody> 
+                         <tr> 
+                          <td style="border-bottom:1px solid #cccccc;background:none;height:0px;width:100%;margin:0px 0px 0px 0px"></td> 
+                         </tr> 
+                        </tbody> 
+                       </table></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+            </tbody> 
+           </table></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+       <table cellpadding="0" cellspacing="0" align="center" class="es-content"> 
+        <tbody> 
+         <tr> 
+          <td align="center" class="esd-stripe"> 
+           <table width="600" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" class="es-content-body"> 
+            <tbody> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p20t es-p20b es-p20r es-p20l"> 
+               <!--[if mso]><table width="560" cellpadding="0" cellspacing="0"><tr><td width="194"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="left" class="es-left"> 
+                <tbody> 
+                 <tr> 
+                  <td width="174" align="center" class="es-m-p0r es-m-p20b esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p10t es-p15b"><h3 style="color:rgb(51, 51, 51)">Opening hours</h3></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                  <td width="20" class="es-hidden"></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td><td width="173"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="left" class="es-left"> 
+                <tbody> 
+                 <tr> 
+                  <td width="173" align="center" class="es-m-p20b esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text"><p class="es-m-txt-c" style="color:rgb(51, 51, 51)">MONDAY - FRIDAY</p><p class="es-m-txt-c" style="color:rgb(51, 51, 51);line-height:150%"><span style="font-size:18px"><span style="color:rgb(204, 173, 83)"><span style="font-family:tahoma,verdana,segoe,sans-serif"><span style="line-height:150%">10:00AM - 12:00PM</span></span></span></span></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td><td width="20"></td><td width="173"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="right" class="es-right"> 
+                <tbody> 
+                 <tr> 
+                  <td width="173" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text"><p class="es-m-txt-c" style="color:rgb(51, 51, 51)">SATURDAY, SUNDAY</p><p class="es-m-txt-c" style="color:rgb(51, 51, 51);line-height:150%"><span style="color:#ccad53"><span style="font-size:18px;line-height:150%">12:00AM - 02:00AM</span></span></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td></tr></table><![endif]--></td> 
+             </tr> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p20" style="background-position:left top"> 
+               <!--[if mso]><table width="560" cellpadding="0" cellspacing="0"><tr><td width="178" valign="top"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="left" class="es-left"> 
+                <tbody> 
+                 <tr> 
+                  <td width="178" valign="top" align="center" class="es-m-p0r es-m-p20b esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p10t es-p15b es-p10r"><h3 style="color:rgb(51, 51, 51)">Contact us</h3></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-text es-p5t"><p class="es-m-txt-c" style="color:#333333;line-height:200%;font-size:16px"><a target="_blank" href="tel:123456789" style="line-height:200%;font-size:16px">123456789</a></p><p class="es-m-txt-c" style="color:#333333;line-height:200%;font-size:16px">Bluff St. Woodville, USA</p><p class="es-m-txt-c" style="color:#333333;line-height:200%"><a target="_blank" href="mailto:your@mail.com" style="font-size:16px;line-height:200%">your@mail.com</a></p></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="left" class="esd-block-social es-p20t es-p10b es-m-txt-c" style="font-size:0" esd-icons-active-padding="10"> 
+                       <table cellspacing="0" cellpadding="0" class="es-table-not-adapt es-social"> 
+                        <tbody> 
+                         <tr> 
+                          <td valign="top" align="center" class="es-p10r" esd-tmp-icon-type="xcom"><a href=""><img title="X" src="https://localfiles.stripocdn.email/content/assets/img/social-icons/square-black/x-square-black.png" alt="X" width="32"></a></td> 
+                          <td valign="top" align="center" class="es-p10r" esd-tmp-icon-type="facebook"><a href=""><img title="Facebook" src="https://tlr.stripocdn.email/content/assets/img/social-icons/square-black/facebook-square-black.png" alt="Fb" width="32"></a></td> 
+                          <td valign="top" align="center" class="es-p10r" esd-tmp-icon-type="youtube"><a href=""><img title="Youtube" src="https://tlr.stripocdn.email/content/assets/img/social-icons/square-black/youtube-square-black.png" alt="Yt" width="32"></a></td> 
+                          <td valign="top" align="center"><a href=""><img title="Vkontakte" src="https://tlr.stripocdn.email/content/assets/img/social-icons/square-black/vk-square-black.png" alt="Vk" width="32"></a></td> 
+                         </tr> 
+                        </tbody> 
+                       </table></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td><td width="20"></td><td width="362" valign="top"><![endif]--> 
+               <table cellspacing="0" cellpadding="0" align="right"> 
+                <tbody> 
+                 <tr> 
+                  <td width="362" align="left" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-image" style="font-size:0"><a target="_blank"><img src="https://tlr.stripocdn.email/content/guids/CABINET_d1baa27178fc4a58fbfdb79d05e06c53/images/40181502712368369.jpg" alt="Map, Bluff St. Woodville, USA" title="Map, Bluff St. Woodville, USA" width="362" class="adapt-img"></a></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+               <!--[if mso]></td></tr></table><![endif]--></td> 
+             </tr> 
+            </tbody> 
+           </table></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+       <table cellpadding="0" cellspacing="0" align="center" class="es-footer"> 
+        <tbody> 
+         <tr> 
+          <td align="center" class="esd-stripe"> 
+           <table width="600" cellspacing="0" cellpadding="0" align="center" class="es-footer-body"> 
+            <tbody> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p20t es-p5b es-p20r es-p20l"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="560" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-spacer es-p5t es-p20b es-p10r es-p10l" style="font-size:0"> 
+                       <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0"> 
+                        <tbody> 
+                         <tr> 
+                          <td style="border-bottom:1px solid #cccccc;background:none;height:0px;width:100%;margin:0px 0px 0px 0px"></td> 
+                         </tr> 
+                        </tbody> 
+                       </table></td> 
+                     </tr> 
+                     <tr> 
+                      <td align="center" class="esd-block-image es-m-p0l es-p5b es-p15l" style="font-size:0"><a href="https://viewstripo.email" target="_blank"><img src="https://tlr.stripocdn.email/content/guids/CABINET_2ec97436767c2a3affe1ca04469ab056/images/211502462728809.png" alt="Marseille logo" title="Marseille logo" width="105"></a></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" class="esd-structure es-p5t es-p15b es-p20r es-p20l"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="560" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-text"><p style="line-height:200%">You are receiving this email because you have visited our site or asked us about regular newsletter.</p><p style="line-height:200%"><a target="_blank" class="unsubscribe" style="line-height:150%">Unsubscribe</a>  | <a target="_blank" href="https://viewstripo.email">Update Preferences</a> | <a target="_blank" href="https://viewstripo.email">Customer Support</a></p></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+             <tr> 
+              <td esd-general-paddings-checked="false" align="left" esd-img-prev-src class="esd-structure"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="600" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0" esd-img-prev-src> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-image" style="font-size:0"><a target="_blank"><img src="https://tlr.stripocdn.email/content/guids/CABINET_f31ea732c64a01ff3f15dd525aba71e6/images/85541509016920746.png" alt="" width="600" class="adapt-img"></a></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+            </tbody> 
+           </table></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+       <table cellspacing="0" cellpadding="0" align="center" class="esd-footer-popover es-content"> 
+        <tbody> 
+         <tr> 
+          <td align="center" class="esd-stripe"> 
+           <table width="600" cellspacing="0" cellpadding="0" align="center" class="es-content-body" style="background-color:transparent"> 
+            <tbody> 
+             <tr> 
+              <td align="left" class="esd-structure es-p30t es-p30b es-p20r es-p20l"> 
+               <table width="100%" cellspacing="0" cellpadding="0"> 
+                <tbody> 
+                 <tr> 
+                  <td width="560" valign="top" align="center" class="esd-container-frame"> 
+                   <table width="100%" cellspacing="0" cellpadding="0"> 
+                    <tbody> 
+                     <tr> 
+                      <td align="center" class="esd-block-image es-infoblock made_with" style="font-size:0"><a target="_blank" href="https://viewstripo.email/?utm_source=templates&utm_medium=email&utm_campaign=restaurants&utm_content=thanksgiving"><img src="https://tlr.stripocdn.email/content/guids/CABINET_9df86e5b6c53dd0319931e2447ed854b/images/64951510234941531.png" alt="" width="125"></a></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+            </tbody> 
+           </table></td> 
+         </tr> 
+        </tbody> 
+       </table></td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div>  
+ <esd-config-block variables="{&quot;--common__wrapperBackgroundColor&quot;:&quot;#f6f6f6&quot;,&quot;--common__wrapperBackgroundImage&quot;:&quot;&quot;,&quot;--common__wrapperBackgroundRepeat&quot;:&quot;repeat&quot;,&quot;--common__wrapperBackgroundPositionX&quot;:&quot;center&quot;,&quot;--common__wrapperBackgroundPositionY&quot;:&quot;top&quot;,&quot;--common__backgroundImageWidth&quot;:&quot;&quot;,&quot;--common__backgroundImageHeight&quot;:&quot;&quot;,&quot;--common__emailContentWidth&quot;:600,&quot;--common__linkDecoration&quot;:&quot;none&quot;,&quot;--adapt__design&quot;:true,&quot;--common__rtlText&quot;:false,&quot;--common__customListsStyles&quot;:false,&quot;--common__listTopBottomMargin&quot;:15,&quot;--common__listLeftIndent&quot;:40,&quot;--common__listMarkerColor&quot;:&quot;var(--stripes__contentFontColor)&quot;,&quot;--common__listNumberMarkerColor&quot;:&quot;var(--stripes__contentFontColor)&quot;,&quot;--common__listBottomMargin&quot;:15,&quot;--common__defaultStructureTopPadding&quot;:20,&quot;--common__defaultStructureRightPadding&quot;:20,&quot;--common__defaultStructureBottomPadding&quot;:0,&quot;--common__defaultStructureLeftPadding&quot;:20,&quot;--stripes__font&quot;:&quot;'arial', 'helvetica neue', 'helvetica', 'sans-serif'&quot;,&quot;--stripes__contentFontSize&quot;:14,&quot;--adapt__fontSize&quot;:16,&quot;--stripes__lineHeight&quot;:&quot;150%&quot;,&quot;--adapt__lineHeight&quot;:&quot;150%&quot;,&quot;--stripes__letterSpacing&quot;:0,&quot;--stripes__contentFontColor&quot;:&quot;#333333&quot;,&quot;--stripes__contentLinkColor&quot;:&quot;#ccad53&quot;,&quot;--stripes__contentLinkColor_hover&quot;:&quot;&quot;,&quot;--stripes__contentBackgroundColor&quot;:&quot;#ffffff&quot;,&quot;--stripes__contentParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__contentParagraphBottomMargin&quot;:&quot;&quot;,&quot;--stripes__headerBackgroundColor&quot;:&quot;transparent&quot;,&quot;--stripes__headerBackgroundImage&quot;:&quot;&quot;,&quot;--stripes__headerBackgroundRepeat&quot;:&quot;repeat&quot;,&quot;--stripes__headerBackgroundPositionX&quot;:&quot;center&quot;,&quot;--stripes__headerBackgroundPositionY&quot;:&quot;top&quot;,&quot;--stripes__headerBackgroundImageWidth&quot;:&quot;&quot;,&quot;--stripes__headerBackgroundImageHeight&quot;:&quot;&quot;,&quot;--stripes__headerContentBackgroundColor&quot;:&quot;#ffffff&quot;,&quot;--stripes__headerFontSize&quot;:14,&quot;--adapt__headerFontSize&quot;:16,&quot;--stripes__headerFontColor&quot;:&quot;#666666&quot;,&quot;--stripes__headerLinkColor&quot;:&quot;#666666&quot;,&quot;--stripes__headerLinkColor_hover&quot;:&quot;&quot;,&quot;--stripes__headerParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__headerParagraphBottomMargin&quot;:&quot;&quot;,&quot;--stripes__footerFontSize&quot;:11,&quot;--adapt__footerFontSize&quot;:16,&quot;--stripes__footerFontColor&quot;:&quot;#666666&quot;,&quot;--stripes__footerLinkColor&quot;:&quot;#666666&quot;,&quot;--stripes__footerLinkColor_hover&quot;:&quot;&quot;,&quot;--stripes__footerBackgroundColor&quot;:&quot;transparent&quot;,&quot;--stripes__footerBackgroundImage&quot;:&quot;&quot;,&quot;--stripes__footerBackgroundRepeat&quot;:&quot;repeat&quot;,&quot;--stripes__footerBackgroundPositionX&quot;:&quot;center&quot;,&quot;--stripes__footerBackgroundPositionY&quot;:&quot;top&quot;,&quot;--stripes__footerBackgroundImageWidth&quot;:&quot;&quot;,&quot;--stripes__footerBackgroundImageHeight&quot;:&quot;&quot;,&quot;--stripes__footerContentBackgroundColor&quot;:&quot;#ffffff&quot;,&quot;--stripes__footerParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__footerParagraphBottomMargin&quot;:&quot;&quot;,&quot;--stripes__infoFontSize&quot;:12,&quot;--adapt__infoFontSize&quot;:12,&quot;--stripes__infoFontColor&quot;:&quot;#cccccc&quot;,&quot;--stripes__infoLinkColor&quot;:&quot;#999999&quot;,&quot;--stripes__infoLinkColor_hover&quot;:&quot;&quot;,&quot;--stripes__infoParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__infoParagraphBottomMargin&quot;:&quot;&quot;,&quot;--title__font&quot;:&quot;'playfair display', 'georgia', 'times new roman', 'serif'&quot;,&quot;--title__letterSpacing&quot;:0,&quot;--title__h1FontSize&quot;:32,&quot;--adapt__titleH1FontSize&quot;:30,&quot;--title__h1LineHeight&quot;:&quot;120%&quot;,&quot;--adapt__titleH1LineHeight&quot;:&quot;120%&quot;,&quot;--title__h1FontColor&quot;:&quot;#333333&quot;,&quot;--title__h1FontStyle&quot;:&quot;normal&quot;,&quot;--title__h1FontWeight&quot;:&quot;normal&quot;,&quot;--title__h1ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH1ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH1FontAlign&quot;:&quot;center&quot;,&quot;--title__h2FontSize&quot;:26,&quot;--adapt__titleH2FontSize&quot;:26,&quot;--title__h2LineHeight&quot;:&quot;120%&quot;,&quot;--adapt__titleH2LineHeight&quot;:&quot;120%&quot;,&quot;--title__h2FontColor&quot;:&quot;#333333&quot;,&quot;--title__h2FontStyle&quot;:&quot;normal&quot;,&quot;--title__h2FontWeight&quot;:&quot;normal&quot;,&quot;--title__h2ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH2ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH2FontAlign&quot;:&quot;center&quot;,&quot;--title__h3FontSize&quot;:20,&quot;--adapt__titleH3FontSize&quot;:20,&quot;--title__h3LineHeight&quot;:&quot;120%&quot;,&quot;--adapt__titleH3LineHeight&quot;:&quot;120%&quot;,&quot;--title__h3FontColor&quot;:&quot;#333333&quot;,&quot;--title__h3FontStyle&quot;:&quot;normal&quot;,&quot;--title__h3FontWeight&quot;:&quot;normal&quot;,&quot;--title__h3ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH3ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH3FontAlign&quot;:&quot;center&quot;,&quot;--title__h4FontSize&quot;:24,&quot;--adapt__titleH4FontSize&quot;:24,&quot;--title__h4LineHeight&quot;:&quot;120%&quot;,&quot;--adapt__titleH4LineHeight&quot;:&quot;120%&quot;,&quot;--title__h4FontColor&quot;:&quot;#333333&quot;,&quot;--title__h4FontStyle&quot;:&quot;normal&quot;,&quot;--title__h4FontWeight&quot;:&quot;normal&quot;,&quot;--title__h4ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH4ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH4FontAlign&quot;:&quot;left&quot;,&quot;--title__h5FontSize&quot;:20,&quot;--adapt__titleH5FontSize&quot;:20,&quot;--title__h5LineHeight&quot;:&quot;120%&quot;,&quot;--adapt__titleH5LineHeight&quot;:&quot;120%&quot;,&quot;--title__h5FontColor&quot;:&quot;#333333&quot;,&quot;--title__h5FontStyle&quot;:&quot;normal&quot;,&quot;--title__h5FontWeight&quot;:&quot;normal&quot;,&quot;--title__h5ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH5ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH5FontAlign&quot;:&quot;left&quot;,&quot;--title__h6FontSize&quot;:16,&quot;--adapt__titleH6FontSize&quot;:16,&quot;--title__h6LineHeight&quot;:&quot;120%&quot;,&quot;--adapt__titleH6LineHeight&quot;:&quot;120%&quot;,&quot;--title__h6FontColor&quot;:&quot;#333333&quot;,&quot;--title__h6FontStyle&quot;:&quot;normal&quot;,&quot;--title__h6FontWeight&quot;:&quot;normal&quot;,&quot;--title__h6ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH6ParagraphBottomMargin&quot;:&quot;&quot;,&quot;--adapt__titleH6FontAlign&quot;:&quot;left&quot;,&quot;--buttons__outlookSupport&quot;:true,&quot;--button__font&quot;:&quot;'arial', 'helvetica neue', 'helvetica', 'sans-serif'&quot;,&quot;--button__fontSize&quot;:18,&quot;--adapt__buttonFontSize&quot;:20,&quot;--button__letterSpacing&quot;:0,&quot;--button__color&quot;:&quot;#ccad53&quot;,&quot;--button__textColor&quot;:&quot;#ffffff&quot;,&quot;--button__textColor_hover&quot;:&quot;#ffffff&quot;,&quot;--button__fontStyle&quot;:&quot;normal&quot;,&quot;--button__fontWeight&quot;:&quot;normal&quot;,&quot;--button__borderSizeTop&quot;:0,&quot;--button__borderSizeRight&quot;:0,&quot;--button__borderSizeBottom&quot;:0,&quot;--button__borderSizeLeft&quot;:0,&quot;--button__borderColorTop&quot;:&quot;#ccad53&quot;,&quot;--button__borderColorRight&quot;:&quot;#ccad53&quot;,&quot;--button__borderColorBottom&quot;:&quot;#ccad53&quot;,&quot;--button__borderColorLeft&quot;:&quot;#ccad53&quot;,&quot;--button__borderStyle&quot;:&quot;solid&quot;,&quot;--button__paddingTop&quot;:10,&quot;--button__paddingRight&quot;:20,&quot;--button__paddingBottom&quot;:10,&quot;--button__paddingLeft&quot;:20,&quot;--button__has_hover&quot;:false,&quot;--button__borderRadiusLT&quot;:0,&quot;--button__borderRadiusRT&quot;:0,&quot;--button__borderRadiusRB&quot;:0,&quot;--button__borderRadiusLB&quot;:0,&quot;--button__display&quot;:&quot;inline-block&quot;,&quot;--adapt__buttonDisplay&quot;:&quot;block&quot;,&quot;--adapt_button_padding&quot;:false,&quot;--adapt__buttonPaddingTop&quot;:10,&quot;--adapt__buttonPaddingRight&quot;:0,&quot;--adapt__buttonPaddingBottom&quot;:10,&quot;--adapt__buttonPaddingLeft&quot;:0,&quot;--adapt__menuFontSize&quot;:14,&quot;--message__hasAmpAccordion&quot;:false,&quot;--message__hasAmpForm&quot;:false,&quot;--message__hasAmpCarousel&quot;:false,&quot;--borderCollapse&quot;:&quot;collapse&quot;}"></esd-config-block></body>
 </html>
